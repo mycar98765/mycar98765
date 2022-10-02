@@ -1,7 +1,12 @@
     // Life motto
+    final bool scared;
     final bool sad;
     final bool angry;
-    if (sad == true) {
+
+    if (scared == true) {
+      stopScared();
+      startHappy();
+    } else if (sad == true) {
       stopSad();
       startHappy();
     } else if (angry == true) {
