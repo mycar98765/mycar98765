@@ -1,13 +1,12 @@
-## About Me
-
-### Hi there <img src="https://raw.githubusercontent.com/realkimmy/realkimmy/master/Hi.gif" width="20px"/>
-
-Hello everyone, my name is My Car. I'm a Flutter, Python and Node.js developer.
-
-<a href="https://github.com/mycar98765/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mycar98765" alt="My Car's GitHub Stats" />
-</a> 
-
-### Stack Overflow stats
-
-[![My Car's StackOverflow Profile](https://github-readme-stackoverflow.vercel.app/?userID=16124033)](https://stackoverflow.com/users/16124033/my-car)
+    // Life motto
+    final bool sad;
+    final bool angry;
+    if (sad == true) {
+      stopSad();
+      startHappy();
+    } else if (angry == true) {
+      stopAngry();
+      startHappy();
+    }
+    // Let's be happy, not sad or angry
+    // :)
